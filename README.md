@@ -1,4 +1,4 @@
-This project was made as part of [this](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) YouTube playlist by [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+This project was made as part of [this](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) React tutorial YouTube playlist by [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
 ## To run this app:
 
