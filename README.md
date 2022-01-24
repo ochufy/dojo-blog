@@ -17,4 +17,4 @@ Step 4) In another terminal,  open the project directory and run the script:
 
 ### `npx json-server -w data/db.json -p 8000`
 
-This creates a mock back-end server which runs on port 8000 using the database in db.json file in the root directory.
+This creates a mock back-end server which runs on port 8000 using the database in db.json file in the data folder in root drectory.
