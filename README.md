@@ -2,16 +2,18 @@ This project was made as part of [this](https://youtube.com/playlist?list=PL4cUx
 
 ## To run this app:
 
-Step 1) Open the project directory in the terminal and run:
+Step 1) Clone the repo
+***
+Step 2) Open the project directory in the terminal and run:
 ### `npm install`
 to install the node modules
 ***
-Step 2) Open the project directory in the terminal and run:
+Step 3) Open the project directory in the terminal and run:
 ### `npm start`
 
 The app opens in [http://localhost:3000](http://localhost:3000) in your browser.
 ***
-Step 3) In another terminal,  open the project directory and run the script:
+Step 4) In another terminal,  open the project directory and run the script:
 
 ### `npx json-server -w data/db.json -p 8000`
 
